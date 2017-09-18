@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-Remote\iotAC-Remote\obj\Debug\__library_projects__\MsgPack\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MsgPack\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-Remote\iotAC-Remote\obj\Debug\__library_projects__\MsgPack.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

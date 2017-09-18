@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iotAC-SignalR-Server", "iotAC-SignalR-Server\iotAC-SignalR-Server.csproj", "{64BDB693-A33E-4CE2-927D-E98D4B3DAEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BDB693-A33E-4CE2-927D-E98D4B3DAEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BDB693-A33E-4CE2-927D-E98D4B3DAEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BDB693-A33E-4CE2-927D-E98D4B3DAEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BDB693-A33E-4CE2-927D-E98D4B3DAEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074DEBA0-F287-4F1E-97DC-128BABC5C019}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="iotAC-SignalR-Server20170916093639" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\UserData\\Documents\\Visual\ Studio\ 2017\\Projects\\iotAC-SignalR-Server\\iotAC-SignalR-Server\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

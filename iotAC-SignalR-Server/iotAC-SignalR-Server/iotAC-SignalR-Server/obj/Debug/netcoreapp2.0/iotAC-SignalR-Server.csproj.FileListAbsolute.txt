@@ -1,0 +1,19 @@
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.deps.json
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.runtimeconfig.json
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.runtimeconfig.dev.json
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.dll
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.csprojResolveAssemblyReference.cache
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.csproj.CoreCompileInputs.cache
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.AssemblyInfoInputs.cache
+C:\Users\Peacock\source\repos\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.AssemblyInfo.cs
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.deps.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.runtimeconfig.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.runtimeconfig.dev.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.dll
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\bin\Debug\netcoreapp2.0\iotAC-SignalR-Server.pdb
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.csprojResolveAssemblyReference.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.csproj.CoreCompileInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.AssemblyInfoInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.AssemblyInfo.cs
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.dll
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\obj\Debug\netcoreapp2.0\iotAC-SignalR-Server.pdb

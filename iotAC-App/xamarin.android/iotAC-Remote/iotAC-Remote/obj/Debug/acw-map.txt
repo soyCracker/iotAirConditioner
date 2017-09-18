@@ -1,0 +1,4 @@
+iotAC_Remote.MainActivity, iotAC-Remote;md58536d5df89ac8e66c16ec0acf2258739.MainActivity
+iotAC_Remote.MainActivity, iotAC-Remote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58536d5df89ac8e66c16ec0acf2258739.MainActivity
+iotAC_Remote.MainActivity;md58536d5df89ac8e66c16ec0acf2258739.MainActivity
+iotac_remote.MainActivity;md58536d5df89ac8e66c16ec0acf2258739.MainActivity

@@ -1,0 +1,13 @@
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\libhostpolicy.so
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\libhostfxr.so
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.deps.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.runtimeconfig.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.runtimeconfig.dev.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.dll
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.pdb
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.csproj.CoreCompileInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.AssemblyInfoInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.AssemblyInfo.cs
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.dll
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\linux-arm\iotAC-PiIR.pdb

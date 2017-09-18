@@ -1,0 +1,12 @@
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=iotAC-SignalR-Server
+--content-root=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\About.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\Contact.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\Error.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\Index.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\_Layout.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\_ViewImports.cshtml
+--file=D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-SignalR-Server\iotAC-SignalR-Server\Pages\_ViewStart.cshtml

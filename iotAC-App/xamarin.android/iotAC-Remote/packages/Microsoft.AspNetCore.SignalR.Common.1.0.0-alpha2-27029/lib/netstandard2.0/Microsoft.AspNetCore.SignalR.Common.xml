@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.AspNetCore.SignalR.Common</name>
+    </assembly>
+    <members>
+        <member name="M:Microsoft.AspNetCore.SignalR.Internal.Encoders.LengthPrefixedTextMessageParser.TryParseMessage(System.ReadOnlyBuffer{System.Byte}@,System.ReadOnlyBuffer{System.Byte}@)">
+            <summary>
+            Attempts to parse a message from the buffer. Returns 'false' if there is not enough data to complete a message. Throws an
+            exception if there is a format error in the provided data.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.SignalR.Internal.Protocol.JsonHubProtocol.#ctor(Newtonsoft.Json.JsonSerializer)">
+            <summary>
+            Creates an instance of the <see cref="T:Microsoft.AspNetCore.SignalR.Internal.Protocol.JsonHubProtocol"/> using the specified <see cref="T:Newtonsoft.Json.JsonSerializer"/>
+            to serialize application payloads (arguments, results, etc.). The serialization of the outer protocol can
+            NOT be changed using this serializer.
+            </summary>
+            <param name="payloadSerializer">The <see cref="T:Newtonsoft.Json.JsonSerializer"/> to use to serialize application payloads (arguments, results, etc.).</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,8 @@
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\iotAC-PiIR.deps.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\iotAC-PiIR.runtimeconfig.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\iotAC-PiIR.runtimeconfig.dev.json
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\bin\Debug\netcoreapp2.0\iotAC-PiIR.dll
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\iotAC-PiIR.csprojResolveAssemblyReference.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\iotAC-PiIR.csproj.CoreCompileInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\iotAC-PiIR.AssemblyInfoInputs.cache
+D:\UserData\Documents\Visual Studio 2017\Projects\iotAC-PiIR\iotAC-PiIR\obj\Debug\netcoreapp2.0\iotAC-PiIR.AssemblyInfo.cs
