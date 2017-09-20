@@ -5,7 +5,9 @@ sudo apt-get install lirc
 `````
 配置：
 `````
-#sudo nano /boot/config.txt #在文件结尾添加
+#定義GPIO 18來接收訊號，GPIO 17來發射訊號
+sudo nano /boot/config.txt 
+#在文件结尾添加
 dtoverlay=lirc-rpi
 gpio_in_pin=18
 gpio_out_pin=17
@@ -38,4 +40,6 @@ irsend LIST /home/pi/lircd.conf ""
 # 發射KEY_POWER紅外線
 irsend SEND_ONCE /home/pi/lircd.conf KEY_POWER
 `````
-參考網址：http://blog.just4fun.site/raspberrypi-lirc.html
+參考網址：  
+http://blog.just4fun.site/raspberrypi-lirc.html  
+http://raspberrytw.tumblr.com/post/48939062042/raspberry-pi-lirc-implement
