@@ -1,6 +1,8 @@
 # iotAC-PiIR
+實作平台：raspberry pi3  
+   
 net core on raspberry pi：  
-https://github.com/soyCracker/iotAirConditioner/blob/master/iotAC-PiIR/net%20core%20on%20raspberry%20pi.md  
+https://github.com/soyCracker/iotAirConditioner/blob/master/iotAC-PiIR/net%20core%20on%20raspberry%20pi.md  
 lirc設定：  
 https://github.com/soyCracker/iotAirConditioner/blob/master/iotAC-PiIR/lirc%E8%A8%AD%E5%AE%9A.md  
 vs1838b 接腳：  
